@@ -1,0 +1,3 @@
+[submodule "gitkraken-client-docs"]
+	path = gitkraken-client-docs
+	url = ../gitkraken-client-docs.git
